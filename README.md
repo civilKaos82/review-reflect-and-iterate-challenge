@@ -15,7 +15,7 @@ One of the best learning opportunities we get as programmers is the opportunity 
 Choose two of the hardest challenges from this weekend, then read, dig into, and comment on 3 other members of your cohorts attempts for each of these challenges. Make sure you include:
   * Something you learned from their attempt
   * Something you think they did well
-  * Something you think could be more in line with the four rules of simple design
+  * Something you think could be more in line with the [four rules of simple design](http://martinfowler.com/bliki/BeckDesignRules.html)
 
 Feel free to ask other people to explain things to you. Remember, your understanding is the most important part.
 
